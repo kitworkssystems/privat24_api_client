@@ -1,1 +1,0 @@
-# privat24_api_client
